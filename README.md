@@ -1,5 +1,14 @@
 # Allenamento Forza
 
+## Schema settimanale base:
+
+* Giorno 1: Gambe + core
+* Giorno 2: Corsa leggera + parte superiore
+* Giorno 3: Gambe + core
+* Giorno 4: Corsa leggera + mobilità
+* Giorno 5: Full body calisthenics
+* Giorno 6–7: Riposo attivo
+
 ## Settimana 1
 
 ### Giorno 1

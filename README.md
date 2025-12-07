@@ -11,7 +11,7 @@
 
 ## Settimana 1
 
-### Giorno 1
+### Giorno 1 - Gambe + core
 
 #### Riscaldamento (5 min)
 
@@ -35,3 +35,103 @@
 * Stretching glutei e anche
 * Stretching spalle e pettorali
 * Cat-cow per schiena
+
+### Giorno 2: Corsa leggera + parte superiore
+
+#### Riscaldamento (5 min)
+
+* Corsa sul posto o marcia attiva: 1–2 min
+* Arm circles: 10 avanti, 10 indietro
+* Shoulder taps a terra: 10 per lato
+   Cat-cow: 5 cicli
+
+#### Allenamento principale
+
+* Push-up: 3x10–12
+* Inverted row sotto tavolo: 3x8–10
+* Plank to push-up: 3x6–8
+* Mountain climbers: 3x20–30 sec
+* Superman hold: 3x20–30 sec
+
+#### Defaticamento / Stretching (5 min)
+
+* Stretching pettorali e spalle
+* Stretching dorsali e schiena
+* Cat-cow 5 cicli
+
+### Giorno 3 - Gambe + Core
+
+#### Riscaldamento (5 min)
+
+* Jumping jacks: 1 min
+* Hip circles: 5 per lato
+* Arm circles: 10 avanti, 10 indietro
+
+#### Allenamento principale
+
+* Squat a corpo libero: 3x12–15
+* Affondi laterali: 3x10 per gamba
+* Ponte glutei su una gamba (assistita): 3x8–10 per gamba
+* Plank frontale con sollevamento alternato braccio/gamba: 3x20–30 sec
+* Side plank con sollevamento gamba: 2x15–20 sec per lato
+* Mountain climbers: 3x20–30 sec
+
+#### Defaticamento / Stretching (5 min)
+
+* Stretching quadricipiti, glutei, anche
+* Cat-cow per schiena
+
+### Giorno 4 - Corsa leggera + mobilità
+
+#### Riscaldamento (3–5 min)
+
+* Camminata veloce o corsa leggera: 3–5 min
+
+#### Allenamento principale / mobilità
+
+* Corsa leggera: 15–20 min, alternando camminata e corsa
+
+* Mobilità dinamica:
+  * Hip circles: 5 per lato
+  * Arm circles: 10 avanti, 10 indietro
+  * Cat-cow: 5 cicli
+  * Shoulder dislocates con bastone o asciugamano: 10
+
+#### Defaticamento / Stretching (5 min)
+
+* Stretching gambe, glutei, spalle
+* Respirazione profonda
+
+### Giorno 5-  Full body calisthenics
+
+Riscaldamento (5 min)
+
+Jumping jacks: 1 min
+
+Arm circles: 10 avanti, 10 indietro
+
+Hip circles: 5 per lato
+
+Push-up lento: 6–8
+
+Allenamento principale
+
+Push-up: 3x10–12
+
+Squat jump leggero: 3x8–10
+
+Inverted row sotto tavolo: 3x8–10
+
+Plank frontale: 3x30–40 sec
+
+Mountain climbers: 3x20–30 sec
+
+Superman hold: 3x20–30 sec
+
+Defaticamento / Stretching (5 min)
+
+Stretching completo: gambe, glutei, spalle, pettorali, schiena
+
+Cat-cow: 5 cicli
+
+Durata stimata: ≈40–45 min

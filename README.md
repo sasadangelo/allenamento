@@ -102,36 +102,27 @@
 * Stretching gambe, glutei, spalle
 * Respirazione profonda
 
-### Giorno 5-  Full body calisthenics
+### Giorno 5 - Full body calisthenics
 
-Riscaldamento (5 min)
+#### Riscaldamento (5 min)
 
-Jumping jacks: 1 min
+* Jumping jacks: 1 min
+* Arm circles: 10 avanti, 10 indietro
+* Hip circles: 5 per lato
+* Push-up lento: 6–8
 
-Arm circles: 10 avanti, 10 indietro
+#### Allenamento principale
 
-Hip circles: 5 per lato
+* Push-up: 3x10–12
+* Squat jump leggero: 3x8–10
+* Inverted row sotto tavolo: 3x8–10
+* Plank frontale: 3x30–40 sec
+* Mountain climbers: 3x20–30 sec
+* Superman hold: 3x20–30 sec
 
-Push-up lento: 6–8
+#### Defaticamento / Stretching (5 min)
 
-Allenamento principale
-
-Push-up: 3x10–12
-
-Squat jump leggero: 3x8–10
-
-Inverted row sotto tavolo: 3x8–10
-
-Plank frontale: 3x30–40 sec
-
-Mountain climbers: 3x20–30 sec
-
-Superman hold: 3x20–30 sec
-
-Defaticamento / Stretching (5 min)
-
-Stretching completo: gambe, glutei, spalle, pettorali, schiena
-
-Cat-cow: 5 cicli
+* Stretching completo: gambe, glutei, spalle, pettorali, schiena
+* Cat-cow: 5 cicli
 
 Durata stimata: ≈40–45 min

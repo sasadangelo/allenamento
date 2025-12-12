@@ -21,6 +21,8 @@
 * Jumping jacks: 1 min
 * Hip circles: 5 per lato
 * Arm circles: 10 avanti, 10 indietro
+* Leg swings front/back – 8 per lato
+* Mini balzi / skipping leggero sul posto – 30 sec
 
 #### Allenamento principale
 
@@ -46,7 +48,8 @@
 * Corsa sul posto o marcia attiva: 1–2 min
 * Arm circles: 10 avanti, 10 indietro
 * Shoulder taps a terra: 10 per lato
-   Cat-cow: 5 cicli
+* Cat-cow: 5 cicli
+* Shoulder rolls – 5 avanti, 5 indietro
 
 #### Allenamento principale
 
@@ -69,6 +72,8 @@
 * Jumping jacks: 1 min
 * Hip circles: 5 per lato
 * Arm circles: 10 avanti, 10 indietro
+* Hip circles – 5 per lato
+* Leg swings left/right – 8 per lato
 
 #### Allenamento principale
 
@@ -89,6 +94,10 @@
 #### Riscaldamento (3–5 min)
 
 * Camminata veloce o corsa leggera: 3–5 min
+* High knees – ginocchia alte sul posto
+* Butt kicks – calcetti ai glutei sul posto
+* A-skips – skip con ginocchia alte e slancio del braccio opposto
+* B-skips – skip con estensione della gamba e slancio dinamico
 
 #### Allenamento principale / mobilità
 
@@ -113,6 +122,7 @@
 * Arm circles: 10 avanti, 10 indietro
 * Hip circles: 5 per lato
 * Push-up lento: 6–8
+* Carioca / grapevine – passo laterale incrociato
 
 #### Allenamento principale
 

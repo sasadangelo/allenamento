@@ -32,7 +32,6 @@
 * Push-up a corpo libero: 3x10–12
 * Mountain climbers: 3x20–30 sec
 * Plank frontale: 3x30–40 sec
-* Side plank: 2x20–30 sec per lato
 * Calf raise: 3x20
 
 #### Defaticamento / Stretching (5 min)
@@ -83,7 +82,6 @@
 * Affondi laterali: 3x10 per gamba
 * Ponte glutei su una gamba (assistita): 3x8–10 per gamba
 * Plank frontale con sollevamento alternato braccio/gamba: 3x20–30 sec
-* Side plank con sollevamento gamba: 2x15–20 sec per lato
 * Mountain climbers: 3x20–30 sec
 
 #### Defaticamento / Stretching (5 min)

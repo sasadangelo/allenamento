@@ -1,4 +1,4 @@
-# Drills di riscaldamento dinamico e attivo
+# Drills di riscaldamento dinamico e attivo
 
 ## 1. Drills tipici corsa / gambe
 

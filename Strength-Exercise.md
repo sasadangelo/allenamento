@@ -44,6 +44,7 @@
 * Push-up a corpo libero
 * Push-up inclinato
 * Piegamenti alla panca (Tricipiti)
+* Piegamenti alle parallele (Tricipiti)
 * Trazione orizzontale inversa sotto il tavolo
 * Sollevamenti laterali braccia (spalle)
 * Sollevamenti frontali braccia (spalle)

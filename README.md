@@ -47,19 +47,19 @@
 
 #### Riscaldamento (5 min)
 
-* Corsa sul posto o marcia attiva: 1–2 min
-* Arm circles: 10 avanti, 10 indietro
+* Corsa/Camminata 20 min
+* Arm circles: 20 avanti, 20 indietro
 * Shoulder taps a terra: 10 per lato
 * Cat-cow: 5 cicli
 * Shoulder rolls – 5 avanti, 5 indietro
 
 #### Allenamento principale
 
-* Push-up: 3x10–12
-* Inverted row sotto tavolo: 3x8–10
-* Plank to push-up: 3x6–8
-* Mountain climbers: 3x20–30 sec
-* Superman hold: 3x20–30 sec
+* Push-up: 2x10
+* Inverted row sotto tavolo: 2x8
+* Plank to push-up: 2x8
+* Mountain climbers: 2x20
+* Superman hold: 2x20–30 sec
 * Piegamenti alla panca (tricipiti)
 * Hip openers
 

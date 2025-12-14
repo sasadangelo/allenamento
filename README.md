@@ -19,21 +19,21 @@
 #### Riscaldamento (5 min)
 
 * Jumping jacks: 1 min
-* Hip circles: 5 per lato
-* Arm circles: 10 avanti, 10 indietro
-* Side leg swings
-* Leg swings front/back – 8 per lato
-* Mini balzi / skipping leggero sul posto – 30 sec
+* Hip circles: 10 per lato
+* Arm circles: 20 avanti, 20 indietro
+* Side leg swings: 10 per lato
+* Leg swings front/back – 10 per lato
+* Mini balzi piedi uniti sul posto – 100
 
 #### Allenamento principale
 
-* Squat a corpo libero: 3x12
-* Affondi avanti: 3x10 per gamba
-* Ponte glutei: 3x12
-* Push-up a corpo libero: 3x10–12
-* Mountain climbers: 3x20–30 sec
-* Plank frontale: 3x30–40 sec
-* Calf raise: 3x20
+* Squat a corpo libero: 2x12
+* Affondi avanti: 2x10 per gamba
+* Ponte glutei: 2x12
+* Push-up a corpo libero: 2x10
+* Mountain climbers: 2x20
+* Plank frontale: 2x30 sec
+* Calf raise: 2x20
 * Hip openers
 
 #### Defaticamento / Stretching (5 min)

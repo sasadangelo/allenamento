@@ -1,102 +1,104 @@
-SETTIMANA 6
+# Programma Allenamento — Settimana 5
 
-Qui entriamo in fase di costruzione vera della corsa.
+Ciclo di ricondizionamento fisico  
+Obiettivi: forza media, consolidamento core, aumento resistenza aerobica
 
-Giorno 1 – Gambe + Core
+---
 
-Allenamento
+## Giorno 1 — Gambe + Core (forza media)
 
-Squat: 4x15
+### Riscaldamento (8 min)
 
-Affondi indietro: 3x12/gamba
+- Jumping jacks — 1’  
+- Hip circles — 10/lato  
+- Leg swings — 10/lato  
+- Squat lenti — 10  
 
-Step-up alto: 3x12/gamba
+### Allenamento principale
 
-Ponte glutei 1 gamba: 3x12/gamba
+- Squat a corpo libero — 3×15  
+- Affondi avanti — 3×12/gamba  
+- Ponte glutei 1 gamba — 3×10/gamba  
+- Step-up su sedia — 3×10/gamba  
+- Plank frontale — 3×40–45’’  
+- Dead bug — 3×10/lato  
+- Calf raise — 3×25  
 
-Plank: 3x50”
+### Defaticamento (8 min)
 
-Hollow hold: 3x25–30”
+- Stretch gambe + anche  
 
-Calf raise: 4x25
+---
 
-Giorno 2 – Corsa + Parte superiore
+## Giorno 2 — Corsa + Parte superiore
 
-Corsa
+### Riscaldamento / Cardio
 
-5’ cammino
+- Camminata — 5’  
+- Corsa facile continua — 25–30 min  
+  - Opzione: 8’ corsa / 1’ cammino × 3  
 
-30–35 min corsa continua
-ritmo molto facile
+### Allenamento parte superiore
 
-Parte alta
+- Push-up — 3×12  
+- Inverted row — 3×10  
+- Pike push-up — 3×8  
+- Plank to push-up — 3×8  
+- Superman hold — 3×30’’  
 
-Push-up: 4x12–15
+### Defaticamento / Mobilità
 
-Inverted row: 4x10
+- Stretch spalle + schiena  
 
-Pike push-up: 3x10
+---
 
-Side plank: 3x30”/lato
+## Giorno 4 — Gambe + Core (più intenso)
 
-Giorno 4 – Gambe + Core (carico neurale)
+### Allenamento principale
 
-Allenamento
+- Squat lento (3” discesa) — 4×12  
+- Affondi laterali — 3×12/gamba  
+- Bulgarian split squat assistito — 3×8/gamba  
+- Hip thrust — 3×15  
+- Plank con sollevamento arti — 3×30–40’’  
+- Mountain climbers — 3×30  
 
-Squat lento: 4x12
+---
 
-Bulgarian split squat: 3x10/gamba
+## Giorno 5 — Corsa + Mobilità
 
-Affondi laterali: 3x12/gamba
+### Corsa
 
-Hip thrust: 4x12
+- 30 min continui  
+- Zona facile, ritmo conversazionale  
 
-Plank dinamico: 3x45”
+### Mobilità / Defaticamento (20 min)
 
-Mountain climbers: 3x40”
+- Cat–cow — 8 cicli  
+- Hip openers  
+- Stretch flessori anca  
+- Stretch polpacci  
+- Rotazioni toraciche  
+- Respirazione lenta — 5’ (4–6 respirazioni)  
 
-Giorno 5 – Corsa + Mobilità
+---
 
-Corsa progressiva
+## Giorno 6 — Full Body Calisthenics
 
-10’ facile
+### Circuito principale — 3–4 giri
 
-10’ medio
+- Push-up — 12  
+- Squat jump leggero — 10  
+- Inverted row — 10  
+- Affondi camminati — 12/gamba  
+- Plank — 45’’  
+- Superman — 30’’  
 
-10’ facile
+**Recupero:** 90’’ tra i giri  
 
-Totale 30 min.
+---
 
-Mobilità 20’ + respirazione 5’.
+## Giorno 3 e Giorno 7
 
-Giorno 6 – Full Body + Core avanzato
+- Riposo attivo: camminata leggera, stretching, bici leggera  
 
-Circuito x 4 giri
-
-Push-up 15
-
-Squat 20
-
-Inverted row 10
-
-Affondi camminati 12/gamba
-
-Plank 60”
-
-Superman 30”
-
-COSA DOVRESTI NOTARE TRA SETTIMANA 5 E 6
-
-Se il lavoro è fatto bene:
-
-FC a riposo ↓
-
-HRV ↑ o più stabile
-
-corsa 30–35 min senza affanno
-
-recupero più rapido
-
-meno rigidità alle anche
-
-miglior controllo respiratorio

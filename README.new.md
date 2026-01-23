@@ -17,6 +17,9 @@ Il programma è strutturato secondo principi di:
 - Integrazione di forza, cardio, mobilità e recupero
 - Preparazione a un secondo ciclo con introduzione di attrezzi
 
+* [Mobilità Dinamica](Drills.md)
+* [Forza](Strenght-Exercise.md)
+
 ---
 
 ## Profilo Atleta (Iniziale)

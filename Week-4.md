@@ -1,91 +1,107 @@
-SETTIMANA 4
+# Programma Allenamento — Settimana 4
 
-Qui iniziamo a spostare il rapporto verso più corsa.
+Ciclo di ricondizionamento fisico  
+Obiettivi: aumentare il rapporto corsa/cammino, forza progressiva, yoga rigenerante
 
-Giorno 1 – Cardio continuo (45 min)
+---
 
-Cammino veloce 10’
+## Giorno 1 — Cardio continuo (45 min)
 
-Corsa lenta continua 15’
+### Riscaldamento
 
-Cammino 5’
+- Cammino veloce — 10 min  
 
-Corsa lenta 10’
+### Fase centrale
 
-Stretching 5’
+- Corsa lenta continua — 15 min  
+- Cammino — 5 min  
+- Corsa lenta — 10 min  
 
-Giorno 2 – Forza progressiva (50 min)
+### Defaticamento
 
-Circuito x 4
+- Stretching gambe — 5 min  
 
-Squat 15
+---
 
-Push-up 10–12
+## Giorno 2 — Forza progressiva (50 min)
 
-Affondi posteriori 10+10
+### Circuito principale — 4 giri
 
-Plank 45’’
+- Squat — 15  
+- Push-up — 10–12  
+- Affondi posteriori — 10+10  
+- Plank — 45’’  
+- Rematore con asciugamano a porta — 12  
 
-Rematore con asciugamano a porta 12
+**Recupero:** 90’’ tra i giri  
 
-Recupero 90’’
+### Mobilità finale
 
-Giorno 3 – Yoga rigenerante (40 min)
+- Anche, schiena — 5–10 min  
 
-Focus:
+---
 
-anche
+## Giorno 3 — Yoga rigenerante (40 min)
 
-schiena
+### Focus
 
-respirazione
+- Anche  
+- Schiena  
+- Respirazione  
 
-Sequenza lenta +
-Savasana 10’ con respirazione nasale profonda.
+### Sequenza lenta
 
-Giorno 4 – Corsa cammino avanzata (45 min)
+- Posizioni base (Tadasana, Cane a testa in giù, Affondo basso, Piegamento avanti, torsioni)  
+- Savasana — 10 min  
+  - Respirazione nasale profonda  
 
-Riscaldamento – 10 min
+---
 
-5’ corsa lenta
+## Giorno 4 — Corsa cammino avanzata (45 min)
 
-2’ cammino
-Ripeti 4 volte (28’)
+### Riscaldamento
 
-Defaticamento – 7 min
+- 10 min cammino/corsa leggera  
 
-Giorno 5 – Forza + controllo (45 min)
+### Fase centrale
 
-Circuito x 3–4
+- 5’ corsa lenta  
+- 2’ cammino  
+- Ripetere **4 volte** (totale 28 min)  
 
-Bulgarian split squat 8+8
+### Defaticamento
 
-Pike push-up 8
+- Stretching gambe — 7 min  
 
-Ponte glutei 20
+---
 
-Hollow hold 30’’
+## Giorno 5 — Forza + controllo (45 min)
 
-Mobilità anche 2’
+### Circuito principale — 3–4 giri
 
-Indicatori da monitorare
+- Bulgarian split squat — 8+8  
+- Pike push-up — 8  
+- Ponte glutei — 20  
+- Hollow hold — 30’’  
+
+### Mobilità finale
+
+- Mobilità anche — 2 min  
+
+---
+
+## Indicatori da monitorare
 
 Ogni settimana annota:
 
-Frequenza cardiaca a riposo
+- Frequenza cardiaca a riposo  
+- Sensazione di fatica (1–10)  
+- Qualità del sonno  
+- Eventuali dolori articolari  
 
-Sensazione di fatica (1–10)
+### Segnali positivi
 
-Qualità del sonno
-
-Eventuali dolori articolari
-
-Segnali positivi:
-
-recuperi più rapidi
-
-battito più basso
-
-corsa più fluida
-
-HRV in aumento
+- Recuperi più rapidi  
+- Battito più basso  
+- Corsa più fluida  
+- HRV in aumento  

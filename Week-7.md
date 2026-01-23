@@ -1,86 +1,98 @@
-SETTIMANA 7
-Giorno 1 – Gambe + Core (specifico corsa)
+# Programma Allenamento — Settimana 7
 
-Allenamento
+Ciclo di ricondizionamento fisico  
+Obiettivi: forza specifica corsa, consolidamento core, miglioramento resistenza aerobica
 
-Squat: 4x15
+---
 
-Bulgarian split squat: 3x12/gamba
+## Giorno 1 — Gambe + Core (specifico corsa)
 
-Step-up alto: 3x12/gamba
+### Allenamento principale
 
-Ponte glutei 1 gamba: 3x12/gamba
+- Squat — 4×15  
+- Bulgarian split squat — 3×12/gamba  
+- Step-up alto — 3×12/gamba  
+- Ponte glutei 1 gamba — 3×12/gamba  
+- Calf raise lento — 4×25  
+- Plank frontale — 3×60’’  
+- Dead bug — 3×12/lato  
 
-Calf raise lento: 4x25
+### Defaticamento / Stretching
 
-Plank: 3x60”
+- Stretch gambe, anche, polpacci — 8 min  
 
-Dead bug: 3x12/lato
+---
 
-Giorno 2 – Corsa continua + Parte superiore
+## Giorno 2 — Corsa continua + Parte superiore
 
-Corsa
+### Corsa
 
-35–40 min corsa facile continua
-ritmo zona aerobica (conversazionale)
+- 35–40 min corsa facile continua  
+- Ritmo aerobico conversazionale  
 
-Parte superiore
+### Allenamento parte superiore
 
-Push-up: 4x15
+- Push-up — 4×15  
+- Inverted row — 4×10–12  
+- Pike push-up — 3×10  
+- Side plank — 3×35’’/lato  
 
-Inverted row: 4x10–12
+### Defaticamento
 
-Pike push-up: 3x10
+- Stretch spalle + schiena — 5–8 min  
 
-Side plank: 3x35”/lato
+---
 
-Giorno 4 – Corsa tecnica + Core
+## Giorno 4 — Corsa tecnica + Core
 
-Riscaldamento
+### Riscaldamento
 
-10’ corsa facile
+- 10 min corsa facile  
 
-Tecnica di corsa
+### Tecnica di corsa
 
-Skip A: 3x30 m
+- Skip A — 3×30 m  
+- Calciata dietro — 3×30 m  
+- Corsa balzata leggera — 3×30 m  
 
-Calciata dietro: 3x30 m
+### Blocco qualità
 
-Corsa balzata leggera: 3x30 m
+- 6× (2’ ritmo medio + 2’ corsa facile)  
 
-Blocco qualità
+### Core
 
-6 x (2’ ritmo medio + 2’ facile)
+- Plank dinamico — 3×45’’  
+- Hollow hold — 3×30’’  
+- Bird dog — 3×12/lato  
 
-Core
+---
 
-Plank dinamico: 3x45”
+## Giorno 5 — Forza Full Body
 
-Hollow hold: 3x30”
+### Circuito principale — 4 giri
 
-Bird dog: 3x12/lato
+- Push-up — 15  
+- Squat — 20  
+- Inverted row — 12  
+- Affondi camminati — 14/gamba  
+- Plank frontale — 60’’  
+- Superman — 30’’  
 
-Giorno 5 – Forza Full Body
+**Recupero:** 90’’ tra i giri  
 
-Circuito x 4 giri
+---
 
-Push-up 15
+## Giorno 6 — Corsa lunga facile
 
-Squat 20
+- 45 min corsa facile continua  
+- Ritmo molto tranquillo, respirazione nasale se possibile  
 
-Inverted row 12
+### Defaticamento / Stretching
 
-Affondi camminati 14/gamba
+- Stretching gambe, anche, polpacci — 10 min  
 
-Plank 60”
+---
 
-Superman 30”
+## Giorno 3 e Giorno 7
 
-Giorno 6 – Corsa lunga facile
-
-45 min corsa facile continua
-ritmo molto tranquillo
-
-respirazione nasale se possibile
-
-Stretch 10’ post corsa.
+- Riposo attivo: camminata leggera, bici leggera, stretching  

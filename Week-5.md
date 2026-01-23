@@ -1,110 +1,103 @@
-SETTIMANA 5
-Giorno 1 – Gambe + Core (forza media)
+# Programma Allenamento — Settimana 5
 
-Riscaldamento 8 min
+Ciclo di ricondizionamento fisico  
+Obiettivi: forza media, consolidamento core, aumento resistenza aerobica
 
-Jumping jacks 1’
+---
 
-Hip circles 10/lato
+## Giorno 1 — Gambe + Core (forza media)
 
-Leg swings 10/lato
+### Riscaldamento (8 min)
 
-Squat lenti 10
+- Jumping jacks — 1’  
+- Hip circles — 10/lato  
+- Leg swings — 10/lato  
+- Squat lenti — 10  
 
-Allenamento
+### Allenamento principale
 
-Squat corpo libero: 3x15
+- Squat a corpo libero — 3×15  
+- Affondi avanti — 3×12/gamba  
+- Ponte glutei 1 gamba — 3×10/gamba  
+- Step-up su sedia — 3×10/gamba  
+- Plank frontale — 3×40–45’’  
+- Dead bug — 3×10/lato  
+- Calf raise — 3×25  
 
-Affondi avanti: 3x12/gamba
+### Defaticamento (8 min)
 
-Ponte glutei 1 gamba: 3x10/gamba
+- Stretch gambe + anche  
 
-Step-up su sedia: 3x10/gamba
+---
 
-Plank frontale: 3x40–45”
+## Giorno 2 — Corsa + Parte superiore
 
-Dead bug: 3x10/lato
+### Riscaldamento / Cardio
 
-Calf raise: 3x25
+- Camminata — 5’  
+- Corsa facile continua — 25–30 min  
+  - Opzione: 8’ corsa / 1’ cammino × 3  
 
-Defaticamento
+### Allenamento parte superiore
 
-Stretch gambe + anche 8’
+- Push-up — 3×12  
+- Inverted row — 3×10  
+- Pike push-up — 3×8  
+- Plank to push-up — 3×8  
+- Superman hold — 3×30’’  
 
-Giorno 2 – Corsa + Parte superiore
+### Defaticamento / Mobilità
 
-Corsa
+- Stretch spalle + schiena  
 
-5’ camminata
+---
 
-25–30 min corsa facile continua
-(se serve: 8’ corsa / 1’ cammino x 3)
+## Giorno 4 — Gambe + Core (più intenso)
 
-Forza parte alta
+### Allenamento principale
 
-Push-up: 3x12
+- Squat lento (3” discesa) — 4×12  
+- Affondi laterali — 3×12/gamba  
+- Bulgarian split squat assistito — 3×8/gamba  
+- Hip thrust — 3×15  
+- Plank con sollevamento arti — 3×30–40’’  
+- Mountain climbers — 3×30  
 
-Inverted row: 3x10
+---
 
-Pike push-up: 3x8
+## Giorno 5 — Corsa + Mobilità
 
-Plank to push-up: 3x8
+### Corsa
 
-Superman hold: 3x30”
+- 30 min continui  
+- Zona facile, ritmo conversazionale  
 
-Stretch spalle + schiena
+### Mobilità / Defaticamento (20 min)
 
-Giorno 4 – Gambe + Core (più intenso)
+- Cat–cow — 8 cicli  
+- Hip openers  
+- Stretch flessori anca  
+- Stretch polpacci  
+- Rotazioni toraciche  
+- Respirazione lenta — 5’ (4–6 respirazioni)  
 
-Allenamento
+---
 
-Squat lento (3” discesa): 4x12
+## Giorno 6 — Full Body Calisthenics
 
-Affondi laterali: 3x12/gamba
+### Circuito principale — 3–4 giri
 
-Bulgarian split squat assistito: 3x8/gamba
+- Push-up — 12  
+- Squat jump leggero — 10  
+- Inverted row — 10  
+- Affondi camminati — 12/gamba  
+- Plank — 45’’  
+- Superman — 30’’  
 
-Hip thrust: 3x15
+**Recupero:** 90’’ tra i giri  
 
-Plank con sollevamento arti: 3x30–40”
+---
 
-Mountain climbers: 3x30”
+## Giorno 3 e Giorno 7
 
-Giorno 5 – Corsa + Mobilità
-
-Corsa
-
-30 min continui zona facile
-ritmo conversazionale
-
-Mobilità 20’
-
-Cat-cow 8
-
-Hip openers
-
-Stretch flessori anca
-
-Stretch polpacci
-
-Rotazioni toraciche
-
-5’ respirazione lenta (4–6)
-
-Giorno 6 – Full Body Calisthenics
-
-Circuito x 3–4 giri
-
-Push-up 12
-
-Squat jump leggero 10
-
-Inverted row 10
-
-Affondi camminati 12/gamba
-
-Plank 45”
-
-Superman 30”
-
-Recupero 90” tra giri.
+- Riposo attivo: camminata leggera, stretching, bici leggera  

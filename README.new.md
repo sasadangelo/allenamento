@@ -89,6 +89,9 @@ Il programma è suddiviso in 4 fasi:
 - Inverted row  
 - Plank (20–30 sec)  
 
+* [Vai all'Allenamento Settimana 1](Week-1.md)
+* [Vai all'Allenamento Settimana 2](Week-2.md)
+
 ---
 
 ## Fase 2 — Settimane 3–4 (Costruzione)
@@ -106,6 +109,9 @@ Il programma è suddiviso in 4 fasi:
 **Cardio**
 - 20–25 minuti  
 - Progressione verso intervalli di corsa più lunghi  
+
+* [Vai all'Allenamento Settimana 3](Week-3.md)
+* [Vai all'Allenamento Settimana 4](Week-4.md)
 
 ---
 
@@ -128,6 +134,9 @@ Il programma è suddiviso in 4 fasi:
 - 25–30 minuti  
 - Obiettivo: 15–20 minuti di corsa continua  
 
+* [Vai all'Allenamento Settimana 5](Week-5.md)
+* [Vai all'Allenamento Settimana 6](Week-6.md)
+
 ---
 
 ## Fase 4 — Settimane 7–8 (Consolidamento)
@@ -145,6 +154,9 @@ Il programma è suddiviso in 4 fasi:
 **Cardio**
 - 30–35 minuti  
 - 1 seduta settimanale con progressione finale  
+
+* [Vai all'Allenamento Settimana 7](Week-7.md)
+* [Vai all'Allenamento Settimana 8](Week-8.md)
 
 ---
 

@@ -1,161 +1,256 @@
-# Allenamento Forza
+# Programma di Allenamento Integrato – 8 Settimane  
+**Calisthenics · Forza · Mobilità · Yoga · Preparazione alla Corsa**
 
-* [Drills](Drills.md)
-* [Esercizi di Forza](Strength-Exercise.md)
+## Panoramica
 
-## Schema settimanale base:
+Questo repository contiene un programma di allenamento progressivo di 8 settimane progettato per:
 
-* Giorno 1: Gambe + core
-* Giorno 2: Corsa leggera + parte superiore
-* Giorno 3: Gambe + core
-* Giorno 4: Corsa leggera + mobilità
-* Giorno 5: Full body calisthenics
-* Giorno 6–7: Riposo attivo
+- Ricondizionamento dopo un lungo periodo di inattività (>1 anno)
+- Sviluppo della forza a corpo libero (calisthenics)
+- Miglioramento di mobilità e flessibilità
+- Preparazione graduale al ritorno alla corsa
+- Miglioramento della salute cardiovascolare, HRV, battito a riposo e parametri metabolici
 
-## Settimana 1
+Il programma è strutturato secondo principi di:
+- Sovraccarico progressivo
+- Alternanza carico / recupero
+- Integrazione di forza, cardio, mobilità e recupero
+- Preparazione a un secondo ciclo con introduzione di attrezzi
 
-### Giorno 1 - Gambe + core - 14/12/2025
+* [Mobilità Dinamica](Drills.md)
+* [Forza](Strenght-Exercise.md)
 
-#### Riscaldamento (5 min)
+---
 
-* Jumping jacks: 1 min
-* Hip circles: 10 per lato
-* Arm circles: 20 avanti, 20 indietro
-* Side leg swings: 10 per lato
-* Leg swings front/back – 10 per lato
-* Mini balzi piedi uniti sul posto – 100
+## Profilo Atleta (Iniziale)
 
-#### Allenamento principale
+- Ex runner (gare 10 km tra 2014–2017)
+- Oltre 1 anno di inattività
+- Obiettivi:
+  - miglioramento salute generale  
+  - riduzione massa grassa  
+  - recupero capacità aerobica  
+  - preparazione a lungo termine  
 
-* Squat a corpo libero: 2x12
-* Affondi avanti: 2x10 per gamba
-* Ponte glutei: 2x12
-* Push-up a corpo libero: 2x10
-* Mountain climbers: 2x20
-* Plank frontale: 2x30 sec
-* Calf raise: 2x20
-* Hip openers
+Vincoli:
+- evitare sovraccarichi precoci su tendini e articolazioni  
+- priorità a tecnica e controllo motorio  
 
-#### Defaticamento / Stretching (5 min)
+---
 
-* Stretching quadricipiti
-* Stretching glutei e anche
-* Stretching spalle e pettorali
-* Cat-cow per schiena
+## Struttura Settimanale (Fissa per tutte le 8 settimane)
 
-#### Note: 
+| Giorno | Focus |
+|------|------|
+| Giorno 1 | Gambe + Core |
+| Giorno 2 | Corsa leggera + Parte superiore |
+| Giorno 3 | Riposo attivo |
+| Giorno 4 | Gambe + Core (variante) |
+| Giorno 5 | Corsa leggera + Mobilità |
+| Giorno 6 | Full Body Calisthenics |
+| Giorno 7 | Riposo attivo / Recupero |
 
-1. Peso 79.6
-2. Ero partito per fare 3 serie di ciascun eserciziom sono riuscito a farne 2
+Questa struttura resta invariata per tutto il ciclo.  
+Variano solo **volume, intensità e varianti degli esercizi**.
 
-### Giorno 2: Corsa leggera + parte superiore
+---
 
-#### Riscaldamento (5 min)
+## Periodizzazione del Ciclo
 
-* Corsa/Camminata 20 min
-* Arm circles: 20 avanti, 20 indietro
-* Shoulder taps a terra: 10 per lato
-* Cat-cow: 5 cicli
-* Shoulder rolls – 5 avanti, 5 indietro
+Il programma è suddiviso in 4 fasi:
 
-#### Allenamento principale
+| Fase | Settimane | Obiettivo |
+|------|-----------|-----------|
+| Adattamento | 1–2 | Ricondizionamento, tolleranza articolare, controllo DOMS |
+| Costruzione | 3–4 | Costruzione forza base e base aerobica |
+| Intensificazione | 5–6 | Aumento intensità, forza reale a corpo libero |
+| Consolidamento | 7–8 | Stabilizzazione, preparazione ciclo successivo |
 
-* Push-up: 2x10
-* Inverted row sotto tavolo: 3x8
-* Plank to push-up: 2x8
-* Mountain climbers: 2x20
-* Superman hold: 2x20–30 sec
-* Piegamenti alla panca (tricipiti)
-* Hip openers
+---
 
-#### Defaticamento / Stretching (5 min)
+## Fase 1 — Settimane 1–2 (Adattamento)
 
-* Stretching pettorali e spalle
-* Stretching dorsali e schiena
-* Cat-cow 5 cicli
+**Obiettivi**
+- Riattivare muscoli e tendini  
+- Apprendere corretti schemi motori  
+- Controllare indolenzimento e fatica  
 
-#### Note: 
+**Linee guida forza**
+- 2–3 serie per esercizio  
+- Ripetizioni medio-alte (10–15)  
+- Nessun lavoro a cedimento  
 
-1. Peso 79.1
-2. Ero indolenzito a gambe e anche per gli esercizi di ieri
-3. Circonferenza 100 cm (ho una bella pancetta)
-4. Petto 102 cm (ho un po' di tette)
+**Cardio**
+- Alternanza corsa / cammino  
+- 15–20 minuti per seduta  
 
-### Giorno 3 - Riposo attivo (passeggiata)
+**Esercizi chiave**
+- Squat  
+- Affondi avanti  
+- Ponte glutei  
+- Push-up  
+- Inverted row  
+- Plank (20–30 sec)  
 
-### Giorno 4 - Gambe + Core
+* [Vai all'Allenamento Settimana 1](Week-1.md)
+* [Vai all'Allenamento Settimana 2](Week-2.md)
 
-#### Riscaldamento (5 min)
+---
 
-* Jumping jacks: 1 min
-* Hip circles: 5 per lato
-* Arm circles: 10 avanti, 10 indietro
-* Leg swings left/right – 8 per lato
-* Walking lunges / affondi camminati
-* Calf raise: 3x20
+## Fase 2 — Settimane 3–4 (Costruzione)
 
-#### Allenamento principale
+**Obiettivi**
+- Aumentare volume di lavoro  
+- Migliorare forza generale  
+- Migliorare base aerobica  
 
-* Squat a corpo libero: 3x12–15
-* Affondi laterali: 3x10 per gamba
-* Ponte glutei su una gamba (assistita): 3x8–10 per gamba
-* Plank frontale con sollevamento alternato braccio/gamba: 3x20–30 sec
-* Mountain climbers: 3x20–30 sec
+**Progressioni**
+- 3–4 serie  
+- Introduzione squat a tempo controllato  
+- Inserimento wall sit, hollow hold  
 
-#### Defaticamento / Stretching (5 min)
+**Cardio**
+- 20–25 minuti  
+- Progressione verso intervalli di corsa più lunghi  
 
-* Stretching quadricipiti, glutei, anche
-* Cat-cow per schiena
+* [Vai all'Allenamento Settimana 3](Week-3.md)
+* [Vai all'Allenamento Settimana 4](Week-4.md)
 
-### Giorno 5 - Corsa leggera + mobilità
+---
 
-#### Riscaldamento (3–5 min)
+## Fase 3 — Settimane 5–6 (Intensificazione)
 
-* Camminata veloce o corsa leggera: 3–5 min
-* High knees – ginocchia alte sul posto
-* Butt kicks – calcetti ai glutei sul posto
-* A-skips – skip con ginocchia alte e slancio del braccio opposto
-* B-skips – skip con estensione della gamba e slancio dinamico
+**Obiettivi**
+- Aumentare intensità  
+- Sviluppare forza calisthenics  
+- Migliorare corsa continua  
 
-#### Allenamento principale / mobilità
+**Progressioni forza**
+- 4 serie sugli esercizi principali  
+- Introduzione:
+  - Step-up  
+  - Pike push-up  
+  - Bulgarian split squat  
+  - Side plank  
 
-* Corsa leggera: 15–20 min, alternando camminata e corsa
+**Cardio**
+- 25–30 minuti  
+- Obiettivo: 15–20 minuti di corsa continua  
 
-* Mobilità dinamica:
-  * Hip circles: 5 per lato
-  * Arm circles: 10 avanti, 10 indietro
-  * Cat-cow: 5 cicli
-  * Shoulder dislocates con bastone o asciugamano: 10
+* [Vai all'Allenamento Settimana 5](Week-5.md)
+* [Vai all'Allenamento Settimana 6](Week-6.md)
 
-#### Defaticamento / Stretching (5 min)
+---
 
-* Stretching gambe, glutei, spalle
-* Respirazione profonda
+## Fase 4 — Settimane 7–8 (Consolidamento)
 
-### Giorno 6 - Full body calisthenics
+**Obiettivi**
+- Stabilizzare forza e resistenza  
+- Ridurre rischio infortuni  
+- Preparare ciclo successivo  
 
-#### Riscaldamento (5 min)
+**Forza**
+- Volume elevato, esecuzione controllata  
+- Plank lunghi (75–90 sec)  
+- Lavoro unilaterale avanzato  
 
-* Jumping jacks: 1 min
-* Arm circles: 10 avanti, 10 indietro
-* Hip circles: 5 per lato
-* Push-up lento: 6–8
-* Carioca / grapevine – passo laterale incrociato
+**Cardio**
+- 30–35 minuti  
+- 1 seduta settimanale con progressione finale  
 
-#### Allenamento principale
+* [Vai all'Allenamento Settimana 7](Week-7.md)
+* [Vai all'Allenamento Settimana 8](Week-8.md)
 
-* Push-up: 3x10–12
-* Piegamenti alla panca (tricipiti)
-* Squat jump leggero: 3x8–10
-* Inverted row sotto tavolo: 3x8–10
-* Plank frontale: 3x30–40 sec
-* Mountain climbers: 3x20–30 sec
-* Superman hold: 3x20–30 sec
-* Calf raise: 3x20
+---
 
-#### Defaticamento / Stretching (5 min)
+## Struttura di una Seduta Tipo
 
-* Stretching completo: gambe, glutei, spalle, pettorali, schiena
-* Cat-cow: 5 cicli
+Ogni allenamento segue questo schema:
 
-### Giorno 7 - Riposo attivo (bici)
+1. **Riscaldamento (5–8 min)**
+   - Mobilità dinamica  
+   - Circonduzioni articolari  
+   - Attivazione muscolare  
+
+2. **Parte Principale (25–40 min)**
+   - Forza / Calisthenics oppure Corsa  
+
+3. **Defaticamento (5–10 min)**
+   - Stretching statico  
+   - Mobilità  
+   - Controllo respiratorio  
+
+---
+
+## Integrazione Mobilità, Stretching e Yoga
+
+- Mobilità dinamica quotidiana nel riscaldamento  
+- Stretching statico a fine seduta  
+- Sedute dedicate di mobilità/yoga:
+  - Giorno 5  
+  - Giorno 7  
+
+Obiettivi:
+- Migliorare range articolare  
+- Ridurre rischio infortuni  
+- Migliorare recupero e HRV  
+
+---
+
+## Monitoraggio e Metriche
+
+Si raccomanda di monitorare:
+
+- Peso corporeo  
+- Circonferenza vita  
+- Battito cardiaco a riposo  
+- HRV  
+- Percezione della fatica (RPE)  
+- Qualità del sonno  
+
+Ridurre il carico se:
+
+- Dolore persistente >48 ore  
+- Fatica eccessiva  
+- Calo di performance  
+
+---
+
+## Dopo le 8 Settimane — Ciclo Successivo
+
+Nel secondo ciclo verranno introdotti gradualmente:
+
+- Elastici  
+- Manubri / kettlebell  
+- Corda per saltare  
+- Bici / indoor cycling  
+- Circuiti forza–cardio combinati  
+
+Questo primo ciclo costruisce la **base strutturale e aerobica** necessaria per carichi esterni.
+
+---
+
+## Principi Guida
+
+- Progressione prima dell’intensità  
+- Tecnica prima del carico  
+- Costanza prima della performance  
+- Il recupero è parte dell’allenamento  
+
+---
+
+## Disclaimer
+
+Questo programma è destinato ad adulti sani senza controindicazioni mediche rilevanti.  
+Consultare un medico prima di iniziare in presenza di patologie cardiovascolari o ortopediche.
+
+---
+
+## Note dell’Autore
+
+Questo programma è stato creato come progetto di lungo periodo con enfasi su:
+
+- Principi scientifici di allenamento  
+- Prevenzione infortuni  
+- Progressione sostenibile  
+- Miglioramenti fisiologici misurabili  

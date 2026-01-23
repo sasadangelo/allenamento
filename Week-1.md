@@ -168,3 +168,12 @@ Durata: **15–20 min**
 oppure  
 
 - Camminata + stretching leggero  
+
+---
+
+### Note personali
+
+- Peso:  
+- FC a riposo:  
+- HRV:  
+- Sensazioni generali:  

@@ -1,206 +1,170 @@
-SETTIMANA 1
-Giorno 1 — Gambe + Core
+# Programma Allenamento — Settimana 1
 
-Riscaldamento (8 min)
+Ciclo di ricondizionamento fisico  
+Obiettivi: ripresa aerobica, forza funzionale, prevenzione infortuni
 
-Jumping jacks: 1 min
+---
 
-Hip circles: 10 per lato
+## Giorno 1 — Gambe + Core
 
-Arm circles: 20 avanti + 20 indietro
+### Riscaldamento (8 min)
 
-Side leg swings: 10 per lato
+- Jumping jacks — 1 min  
+- Hip circles — 10 per lato  
+- Arm circles — 20 avanti + 20 indietro  
+- Side leg swings — 10 per lato  
+- Leg swings front/back — 10 per lato  
+- Mini balzi piedi uniti — 60–80  
 
-Leg swings front/back: 10 per lato
+### Allenamento principale
 
-Mini balzi piedi uniti: 60–80
+- Squat a corpo libero — 2×12  
+- Affondi avanti — 2×10 / gamba  
+- Ponte glutei — 2×12  
+- Calf raise — 2×20  
+- Push-up — 2×10  
+- Mountain climbers — 2×20  
+- Plank frontale — 2×30 sec  
 
-Allenamento principale
+### Defaticamento (5–8 min)
 
-Squat a corpo libero: 2×12
+- Stretch quadricipiti  
+- Stretch glutei e anche  
+- Cat–cow — 5 cicli  
+- Stretch polpacci  
 
-Affondi avanti: 2×10 / gamba
+---
 
-Ponte glutei: 2×12
+## Giorno 2 — Corsa leggera + Parte superiore
 
-Calf raise: 2×20
+### Riscaldamento (5 min)
 
-Push-up: 2×10
+- Camminata veloce — 3 min  
+- Arm circles — 20 avanti + 20 indietro  
+- Shoulder rolls — 10 avanti + 10 indietro  
+- Cat–cow — 5 cicli  
 
-Mountain climbers: 2×20
+### Cardio
 
-Plank frontale: 2×30 sec
+Durata totale: **20 min**
 
-Defaticamento (5–8 min)
+- 2 min cammino  
+- 1 min corsa  
+- Ripetere il ciclo  
 
-Stretch quadricipiti
+### Allenamento parte superiore
 
-Stretch glutei e anche
+- Push-up — 2×10  
+- Inverted row — 3×8  
+- Plank to push-up — 2×8  
+- Superman hold — 2×25 sec  
+- Dip su panca (tricipiti) — 2×10  
 
-Cat–cow: 5 cicli
+### Defaticamento
 
-Stretch polpacci
+- Stretch pettorali  
+- Stretch dorsali  
+- Stretch spalle  
 
-Giorno 2 — Corsa leggera + Parte superiore
+---
 
-Riscaldamento (5 min)
+## Giorno 3 — Riposo attivo
 
-Camminata veloce 3 min
+- Camminata — 20–30 min  
+- Mobilità leggera — 10 min  
+  - Anche  
+  - Schiena  
+  - Caviglie  
 
-Arm circles: 20 avanti + 20 indietro
+---
 
-Shoulder rolls: 10 avanti + 10 indietro
+## Giorno 4 — Gambe + Core (variante)
 
-Cat–cow: 5 cicli
+### Riscaldamento (8 min)
 
-Cardio
+- Jumping jacks — 1 min  
+- Hip circles — 8 per lato  
+- Leg swings — 10 per lato  
+- Walking lunges — 2×10 passi  
 
-20 min totali:
+### Allenamento principale
 
-2 min cammino
+- Squat a corpo libero — 3×12  
+- Affondi laterali — 3×10 / gamba  
+- Ponte glutei monopodalico assistito — 3×8 / gamba  
+- Calf raise — 3×20  
+- Plank con tocco spalle — 3×30 sec  
+- Mountain climbers — 3×20  
 
-1 min corsa
+### Defaticamento
 
-Ripetere
+- Stretch quadricipiti  
+- Stretch glutei  
+- Cat–cow — 5 cicli  
 
-Allenamento parte superiore
+---
 
-Push-up: 2×10
+## Giorno 5 — Corsa leggera + Mobilità
 
-Inverted row: 3×8
+### Riscaldamento (5 min)
 
-Plank to push-up: 2×8
+- Camminata — 3 min  
+- High knees — 30 sec  
+- Butt kicks — 30 sec  
+- A-skip — 2×20 m (o 30 sec)  
 
-Superman hold: 2×25 sec
+### Cardio
 
-Dip su panca (tricipiti): 2×10
+Durata: **15–20 min**
 
-Defaticamento
+- 2 min corsa  
+- 2 min cammino  
+- Ripetere  
 
-Stretch pettorali
+### Mobilità dinamica (10 min)
 
-Stretch dorsali
+- Hip circles — 8 per lato  
+- Shoulder dislocates con asciugamano — 10  
+- Cat–cow — 8 cicli  
+- Rotazioni toraciche — 10 per lato  
 
-Stretch spalle
+### Defaticamento
 
-Giorno 3 — Riposo attivo
+- Stretch completo gambe  
+- Respirazione lenta — 3–5 min  
 
-Camminata 20–30 min
+---
 
-Mobilità leggera 10 min
+## Giorno 6 — Full Body Calisthenics
 
-anche
+### Riscaldamento (8 min)
 
-schiena
+- Jumping jacks — 1 min  
+- Arm circles — 20 + 20  
+- Hip circles — 8 per lato  
+- Push-up lenti — 6  
 
-caviglie
+### Allenamento principale
 
-Giorno 4 — Gambe + Core (variante)
+- Push-up — 3×10  
+- Inverted row — 3×8–10  
+- Squat — 3×15  
+- Squat jump leggero — 3×8  
+- Plank frontale — 3×40 sec  
+- Mountain climbers — 3×25  
+- Superman hold — 3×25 sec  
+- Calf raise — 3×20  
 
-Riscaldamento (8 min)
+### Defaticamento
 
-Jumping jacks: 1 min
+- Stretch globale — 10 min  
 
-Hip circles: 8 per lato
+---
 
-Leg swings: 10 per lato
+## Giorno 7 — Riposo attivo
 
-Walking lunges: 2×10 passi
+- Bici — 20–40 min  
 
-Allenamento principale
+oppure  
 
-Squat a corpo libero: 3×12
-
-Affondi laterali: 3×10 / gamba
-
-Ponte glutei monopodalico assistito: 3×8 / gamba
-
-Calf raise: 3×20
-
-Plank con tocco spalle: 3×30 sec
-
-Mountain climbers: 3×20
-
-Defaticamento
-
-Stretch quadricipiti
-
-Stretch glutei
-
-Cat–cow 5 cicli
-
-Giorno 5 — Corsa leggera + Mobilità
-
-Riscaldamento (5 min)
-
-Camminata 3 min
-
-High knees: 30 sec
-
-Butt kicks: 30 sec
-
-A-skip: 2×20 m (o 30 sec)
-
-Cardio
-
-15–20 min alternando:
-
-2 min corsa
-
-2 min cammino
-
-Mobilità dinamica (10 min)
-
-Hip circles: 8 per lato
-
-Shoulder dislocates con asciugamano: 10
-
-Cat–cow: 8 cicli
-
-Rotazioni toraciche: 10 per lato
-
-Defaticamento
-
-Stretch completo gambe
-
-Respirazione lenta 3–5 min
-
-Giorno 6 — Full Body Calisthenics
-
-Riscaldamento (8 min)
-
-Jumping jacks: 1 min
-
-Arm circles: 20 + 20
-
-Hip circles: 8 per lato
-
-Push-up lenti: 6
-
-Allenamento principale
-
-Push-up: 3×10
-
-Inverted row: 3×8–10
-
-Squat: 3×15
-
-Squat jump leggero: 3×8
-
-Plank frontale: 3×40 sec
-
-Mountain climbers: 3×25
-
-Superman hold: 3×25 sec
-
-Calf raise: 3×20
-
-Defaticamento
-
-Stretch globale 10 min
-
-Giorno 7 — Riposo attivo
-
-Bici 20–40 min oppure
-
-Camminata + stretching leggero
+- Camminata + stretching leggero  

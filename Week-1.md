@@ -7,8 +7,9 @@ Obiettivi: ripresa aerobica, forza funzionale, prevenzione infortuni
 
 ## Giorno 1 — Gambe + Core
 
-### Riscaldamento (8 min)
+### Riscaldamento (13 min)
 
+- Corsa - 20 min
 - Jumping jacks — 1 min  
 - Hip circles — 10 per lato  
 - Arm circles — 20 avanti + 20 indietro  
@@ -33,24 +34,20 @@ Obiettivi: ripresa aerobica, forza funzionale, prevenzione infortuni
 - Cat–cow — 5 cicli  
 - Stretch polpacci  
 
+**Note**
+- Affondi avanti e Push-up un po' faticosi.
+- 79.1 Kg peso
+- HRV 37
 ---
 
 ## Giorno 2 — Corsa leggera + Parte superiore
 
-### Riscaldamento (5 min)
+### Riscaldamento (25 min)
 
-- Camminata veloce — 3 min  
+- Corsa - 20 min
 - Arm circles — 20 avanti + 20 indietro  
 - Shoulder rolls — 10 avanti + 10 indietro  
 - Cat–cow — 5 cicli  
-
-### Cardio
-
-Durata totale: **20 min**
-
-- 2 min cammino  
-- 1 min corsa  
-- Ripetere il ciclo  
 
 ### Allenamento parte superiore
 
@@ -65,6 +62,9 @@ Durata totale: **20 min**
 - Stretch pettorali  
 - Stretch dorsali  
 - Stretch spalle  
+
+**Note**
+- Inverted row, Plank to push-up e Dip su panca un po' faticosi.
 
 ---
 

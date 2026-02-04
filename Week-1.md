@@ -35,11 +35,6 @@ Obiettivi: ripresa aerobica, forza funzionale, prevenzione infortuni
 - Stretch polpacci  
 
 **Note**
-- Altezza 176 cm
-- Fianchi 99 cm, Collo 38 cm, Pancia 98 cm
-- 79.1 Kg peso
-- HRV 32
-- FCriposo 66
 - Affondi avanti e Push-up un po' faticosi.
 ---
 
@@ -176,7 +171,12 @@ oppure
 
 ### Note personali
 
-- Peso:  
-- FC a riposo:  
-- HRV:  
+- Peso: 79.1 Kg
+- Altezza: 176 cm
+- Misure:
+  - Fianchi: 99 cm
+  - Collo: 38 cm
+  - Pancia: 98 cm
+- HRV 32
+- FC a riposo 66
 - Sensazioni generali:  

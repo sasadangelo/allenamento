@@ -35,9 +35,12 @@ Obiettivi: ripresa aerobica, forza funzionale, prevenzione infortuni
 - Stretch polpacci  
 
 **Note**
-- Affondi avanti e Push-up un po' faticosi.
+- Altezza 176 cm
+- Fianchi 99 cm, Collo 38 cm, Pancia 98 cm
 - 79.1 Kg peso
-- HRV 37
+- HRV 32
+- FCriposo 66
+- Affondi avanti e Push-up un po' faticosi.
 ---
 
 ## Giorno 2 — Corsa leggera + Parte superiore

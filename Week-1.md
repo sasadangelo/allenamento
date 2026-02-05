@@ -69,10 +69,6 @@ Obiettivi: ripresa aerobica, forza funzionale, prevenzione infortuni
 ## Giorno 3 — Riposo attivo
 
 - Camminata — 20–30 min  
-- Mobilità leggera — 10 min  
-  - Anche  
-  - Schiena  
-  - Caviglie  
 
 ---
 
@@ -80,7 +76,7 @@ Obiettivi: ripresa aerobica, forza funzionale, prevenzione infortuni
 
 ### Riscaldamento (8 min)
 
-- Jumping jacks — 1 min  
+- Corsa — 20 min  
 - Hip circles — 8 per lato  
 - Leg swings — 10 per lato  
 - Walking lunges — 2×10 passi  
@@ -100,6 +96,8 @@ Obiettivi: ripresa aerobica, forza funzionale, prevenzione infortuni
 - Stretch glutei  
 - Cat–cow — 5 cicli  
 
+**Note**
+- Plank con tocco spalle troppo faticoso
 ---
 
 ## Giorno 5 — Corsa leggera + Mobilità

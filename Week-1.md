@@ -74,7 +74,7 @@ Obiettivi: ripresa aerobica, forza funzionale, prevenzione infortuni
 
 ## Giorno 4 — Gambe + Core (variante)
 
-### Riscaldamento (8 min)
+### Riscaldamento
 
 - Corsa — 20 min  
 - Hip circles — 8 per lato  

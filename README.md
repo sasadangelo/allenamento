@@ -26,7 +26,7 @@ Approccio: integrazione strutturata di **corsa + forza**, evitando sovraccarichi
 - **10 Maggio — Komen Race (5 Km)**  
   → tempo target: **< 30'**
 
-- **22 Maggio — Emergency “Corri per la Pace” (5–7 Km)**  
+- **22 Maggio — Emergency “Corri per la Pace” (7 Km)**  
   → completare la distanza a ritmo controllato  
 
 ---

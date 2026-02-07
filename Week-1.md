@@ -168,4 +168,6 @@ oppure
   - Pancia: 98 cm
 - HRV 32
 - FC a riposo 66
-- Sensazioni generali:  
+- Sensazioni generali:
+  - fascite plantare, anche e adduttori sono mio punto debole
+  - glutei e parte posteriore da rinforzare 

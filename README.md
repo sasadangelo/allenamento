@@ -96,20 +96,24 @@ La forza è centrale e mirata a supportare la corsa.
 
 **Obiettivi**
 
-- stabilizzare corsa continua 20'
-- rinforzare glutei, anche, core, polpacci
-- prevenire fascite e sovraccarichi
+**Obiettivi**
+
+- corsa continua 20–25’ con poche pause, zona 2 stabile  
+- rinforzo glutei, core, polpacci, anche  
+- prevenzione fascite e sovraccarichi  
+- apprendimento corretto controllo motorio
 
 **Linee guida forza**
 
-- 2–3 serie
-- RPE 5–6
-- nessun cedimento
+- 2–3 serie per esercizio principale
+- Ripetizioni medie (10–15)
+- Esercizi chiave: squat, affondi, ponte glutei, push-up, inverted row, plank 30–40 sec
+- Nessun lavoro a cedimento
 
 **Cardio**
 
-- corsa continua easy
-- 3 sedute settimanali
+- 3 sedute corsa continua (20–25’)
+- Zona 2 predominante, cammino minimo
 
 ---
 
@@ -119,133 +123,130 @@ La forza è centrale e mirata a supportare la corsa.
 ## Fase 2 — Settimane 3–4 (Costruzione)
 
 **Obiettivi**
-- Aumentare volume di lavoro  
-- Migliorare forza generale  
-- Migliorare base aerobica  
 
-**Progressioni**
-- 3–4 serie  
-- Introduzione squat a tempo controllato  
-- Inserimento wall sit, hollow hold  
+- consolidare forza strutturale  
+- corsa continua 25’–27’, ridurre pause  
+- rinforzo core, glutei, polpacci, anche  
+
+**Progressioni forza**
+
+- 3–4 serie per esercizio principale
+- Squat a tempo controllato
+- Wall sit, hollow hold
+- Aumentare ripetizioni e durata plank senza cedimento
 
 **Cardio**
-- 20–25 minuti  
-- Progressione verso intervalli di corsa più lunghi  
 
-* [Vai all'Allenamento Settimana 3](Week-3.md)
-* [Vai all'Allenamento Settimana 4](Week-4.md)
+- 25’ corsa continua / cammino minimo
+- mantenere zona 2, respirazione controllata
+
+* [Allenamento Settimana 3](Week-3.md)
+* [Allenamento Settimana 4](Week-4.md)
 
 ---
 
 ## Fase 3 — Settimane 5–6 (Intensificazione)
 
 **Obiettivi**
-- Aumentare intensità  
-- Sviluppare forza calisthenics  
-- Migliorare corsa continua  
+
+- corsa continua 28–30’  
+- forza calisthenics avanzata  
+- consolidare tecnica su esercizi principali  
 
 **Progressioni forza**
-- 4 serie sugli esercizi principali  
-- Introduzione:
-  - Step-up  
-  - Pike push-up  
-  - Bulgarian split squat  
-  - Side plank  
+
+- 4 serie principali
+- Step-up controllato, pike push-up, Bulgarian split squat, side plank
+- Plank frontale/laterale 45–60 sec
+- Controllo completo, mai cedimento
 
 **Cardio**
-- 25–30 minuti  
-- Obiettivo: 15–20 minuti di corsa continua  
 
-* [Vai all'Allenamento Settimana 5](Week-5.md)
-* [Vai all'Allenamento Settimana 6](Week-6.md)
+- corsa continua 28–30’, zona 2 stabile  
+- riduzione cammino al minimo
+
+* [Allenamento Settimana 5](Week-5.md)
+* [Allenamento Settimana 6](Week-6.md)
 
 ---
 
 ## Fase 4 — Settimane 7–8 (Consolidamento)
 
 **Obiettivi**
-- Stabilizzare forza e resistenza  
-- Ridurre rischio infortuni  
-- Preparare ciclo successivo  
+
+- stabilizzare forza e resistenza aerobica  
+- ridurre rischio infortuni  
+- preparazione gare e ciclo successivo
 
 **Forza**
-- Volume elevato, esecuzione controllata  
-- Plank lunghi (75–90 sec)  
-- Lavoro unilaterale avanzato  
+
+- Volume elevato, esecuzione controllata
+- Plank frontale/laterali 75–90 sec
+- Esercizi unilaterali avanzati
 
 **Cardio**
-- 30–35 minuti  
-- 1 seduta settimanale con progressione finale  
 
-* [Vai all'Allenamento Settimana 7](Week-7.md)
-* [Vai all'Allenamento Settimana 8](Week-8.md)
+- 30–35’ corsa continua, zona 2
+- 1 seduta settimanale finale con ritmo gara
+
+* [Allenamento Settimana 7](Week-7.md)
+* [Allenamento Settimana 8](Week-8.md)
 
 ---
 
 ## Struttura di una Seduta Tipo
 
-Ogni allenamento segue questo schema:
-
 1. **Riscaldamento (5–8 min)**
    - Mobilità dinamica  
    - Circonduzioni articolari  
-   - Attivazione muscolare  
+   - Attivazione muscolare
 
 2. **Parte Principale (25–40 min)**
-   - Forza / Calisthenics oppure Corsa  
+   - Forza / Calisthenics **oppure**
+   - Corsa continua con cammino minimo
 
 3. **Defaticamento (5–10 min)**
    - Stretching statico  
    - Mobilità  
-   - Controllo respiratorio  
+   - Controllo respiratorio
 
 ---
 
-## Integrazione Mobilità, Stretching e Yoga
+## Mobilità, Stretching e Yoga
 
 - Mobilità dinamica quotidiana nel riscaldamento  
 - Stretching statico a fine seduta  
-- Sedute dedicate di mobilità/yoga:
-  - Giorno 5  
-  - Giorno 7  
-
-Obiettivi:
-- Migliorare range articolare  
-- Ridurre rischio infortuni  
-- Migliorare recupero e HRV  
+- Sedute dedicate: giorno 5 (corsa + mobilità), giorno 7 (riposo attivo + mobilità)  
+- Obiettivi: range articolare, prevenzione infortuni, recupero, HRV
 
 ---
 
 ## Monitoraggio e Metriche
 
-Si raccomanda di monitorare:
-
 - Peso corporeo  
-- Circonferenza vita  
+- Circonferenza vita/fianchi  
 - Battito cardiaco a riposo  
 - HRV  
 - Percezione della fatica (RPE)  
 - Qualità del sonno  
+- Km corsi e pause cammino
 
-Ridurre il carico se:
+Ridurre carico se:
 
-- Dolore persistente >48 ore  
+- Dolore persistente >48 h  
 - Fatica eccessiva  
-- Calo di performance  
+- Calo performance
 
 ---
 
 ## Dopo le 8 Settimane — Ciclo Successivo
 
-Nel secondo ciclo verranno introdotti gradualmente:
-
-- Elastici  
-- Manubri / kettlebell  
+- Elastici, manubri / kettlebell  
 - Corda per saltare  
 - Bici / indoor cycling  
-- Circuiti forza–cardio combinati  
+- Circuiti combinati forza–cardio
 
-Questo primo ciclo costruisce la **base strutturale e aerobica** necessaria per carichi esterni.
+Obiettivo: consolidare base strutturale e aerobica, preparazione gare e progressione verso ritmo gara.
 
 ---
 
@@ -254,22 +255,21 @@ Questo primo ciclo costruisce la **base strutturale e aerobica** necessaria per 
 - Progressione prima dell’intensità  
 - Tecnica prima del carico  
 - Costanza prima della performance  
-- Il recupero è parte dell’allenamento  
+- Recupero parte integrante dell’allenamento  
+- Separazione corsa / gambe per prevenzione infortuni
 
 ---
 
 ## Disclaimer
 
-Questo programma è destinato ad adulti sani senza controindicazioni mediche rilevanti.  
-Consultare un medico prima di iniziare in presenza di patologie cardiovascolari o ortopediche.
+Programma destinato ad adulti sani. Consultare un medico prima di iniziare se presenti patologie cardiovascolari, ortopediche o altri problemi rilevanti.
 
 ---
 
 ## Note dell’Autore
 
-Questo programma è stato creato come progetto di lungo periodo con enfasi su:
-
-- Principi scientifici di allenamento  
-- Prevenzione infortuni  
+- Basato su principi scientifici di allenamento  
+- Prevenzione fascite plantare e adduttori  
 - Progressione sostenibile  
-- Miglioramenti fisiologici misurabili  
+- Miglioramenti misurabili in forza, resistenza e composizione corporea  
+- Preparazione gare 5–7 km con obiettivi concreti

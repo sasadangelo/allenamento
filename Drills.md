@@ -17,27 +17,27 @@
 
 ## 2. Drills generici / corpo superiore
 
-* Jumping jacks – 30–45 sec
+* Jumping jacks – 1 min
 * Push-up lento – 6–8 ripetizioni
-* Arm circles – 10 avanti, 10 indietro
-* Shoulder rolls – 5 avanti, 5 indietro
+* Arm circles – 20 avanti, 20 indietro
+* Shoulder rolls – 10 avanti, 10 indietro
 * Shoulder taps a terra – 10 per lato
 * Inchworm / camminata mani a terra – 3–4 ripetizioni
 * Cat-cow – 5 cicli
 
 ## 3. Mobilità anche / core
 
-* Hip circles / cerchi anche – 5 per lato
-* Standing hip swings – oscillazioni gambe frontale e laterale
-* Leg swings front/back – oscillazioni gambe avanti/indietro
+* Hip circles / cerchi anche – 10 per lato
+* Standing hip swings – 10 oscillazioni gambe frontale e laterale
+* Leg swings front/back – 10 oscillazioni gambe avanti/indietro
 * Torso twists – torsioni busto in piedi, 10 per lato
 * Side bends – piegamenti laterali busto, 5–10 per lato
 
 ## 4. Esercizi dinamici aggiuntivi
 
-* Mountain climbers – 20–30 sec
+* Mountain climbers – 2x20
 * Skater jumps / slanci laterali – 8–10 per lato
-* Jump squat leggero – 6–8
+* Jump squat leggero – 8
 * Plank to push-up – 3–5
 * Hollow body hold dinamico – piccoli movimenti bacino/braccia per 15–20 sec
 

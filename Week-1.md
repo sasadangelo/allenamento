@@ -5,11 +5,16 @@ Obiettivi: ripresa aerobica, forza funzionale, prevenzione infortuni
 
 ---
 
-## Giorno 1 — Gambe + Core
+## Giorno 1 — Corsa leggera + Gambe + Core
 
-### Riscaldamento (13 min)
+### Corsa
 
 - Corsa - 20 min
+
+### Forza
+
+#### Riscaldamento (8 min)
+
 - Jumping jacks — 1 min  
 - Hip circles — 10 per lato  
 - Arm circles — 20 avanti + 20 indietro  
@@ -17,7 +22,7 @@ Obiettivi: ripresa aerobica, forza funzionale, prevenzione infortuni
 - Leg swings front/back — 10 per lato  
 - Mini balzi piedi uniti — 60–80  
 
-### Allenamento principale
+#### Allenamento principale
 
 - Squat a corpo libero — 2×12  
 - Affondi avanti — 2×10 / gamba  
@@ -27,7 +32,7 @@ Obiettivi: ripresa aerobica, forza funzionale, prevenzione infortuni
 - Mountain climbers — 2×20  
 - Plank frontale — 2×30 sec  
 
-### Defaticamento (5–8 min)
+#### Defaticamento (5–8 min)
 
 - Stretch quadricipiti  
 - Stretch glutei e anche  
@@ -35,14 +40,18 @@ Obiettivi: ripresa aerobica, forza funzionale, prevenzione infortuni
 - Stretch polpacci  
 
 **Note**
+- Corsa ho camminato 4 volte 2.15 Km a 9:35 min/Km
 - Affondi avanti e Push-up un po' faticosi.
 ---
 
 ## Giorno 2 — Corsa leggera + Parte superiore
 
-### Riscaldamento (25 min)
+### Corsa
 
 - Corsa - 20 min
+
+### Riscaldamento (5 min)
+
 - Arm circles — 20 avanti + 20 indietro  
 - Shoulder rolls — 10 avanti + 10 indietro  
 - Cat–cow — 5 cicli  
@@ -62,6 +71,7 @@ Obiettivi: ripresa aerobica, forza funzionale, prevenzione infortuni
 - Stretch spalle  
 
 **Note**
+- Corsa ho camminato 2 volte 2.47 Km a 8:06 min/Km
 - Inverted row, Plank to push-up e Dip su panca un po' faticosi.
 
 ---
@@ -72,7 +82,11 @@ Obiettivi: ripresa aerobica, forza funzionale, prevenzione infortuni
 
 ---
 
-## Giorno 4 — Gambe + Core (variante)
+## Giorno 4 — Corsa leggera + Gambe + Core (variante)
+
+### Corsa
+
+- Corsa — 20 min  
 
 ### Riscaldamento
 
@@ -97,48 +111,22 @@ Obiettivi: ripresa aerobica, forza funzionale, prevenzione infortuni
 - Cat–cow — 5 cicli  
 
 **Note**
+- Corsa ho camminato 1 volta 2.64 Km a 7:35 min/Km
 - Plank con tocco spalle troppo faticoso
+- Ponte glutei monopodalico assistito difficile per gamba sinistra
+- toller più gli quat degli affondi
 ---
 
-## Giorno 5 — Corsa leggera + Mobilità
+## Giorno 5 — Corsa Lunga + Full Body Calisthenics
 
-### Riscaldamento (5 min)
+### Corsa
 
-- Camminata — 3 min  
-- High knees — 30 sec  
-- Butt kicks — 30 sec  
-- A-skip — 2×20 m (o 30 sec)  
-
-### Cardio
-
-Durata: **15–20 min**
-
-- 2 min corsa  
-- 2 min cammino  
-- Ripetere  
-
-### Mobilità dinamica (10 min)
-
-- Hip circles — 8 per lato  
-- Shoulder dislocates con asciugamano — 10  
-- Cat–cow — 8 cicli  
-- Rotazioni toraciche — 10 per lato  
-
-### Defaticamento
-
-- Stretch completo gambe  
-- Respirazione lenta — 3–5 min  
-
----
-
-## Giorno 6 — Full Body Calisthenics
+- Corsa Lunga — 30 min  
 
 ### Riscaldamento (8 min)
 
-- Jumping jacks — 1 min  
 - Arm circles — 20 + 20  
-- Hip circles — 8 per lato  
-- Push-up lenti — 6  
+- Hip circles — 10 per lato   
 
 ### Allenamento principale
 
@@ -155,7 +143,10 @@ Durata: **15–20 min**
 
 - Stretch globale — 10 min  
 
+Note
 ---
+- Corsa lunga 22 min continui 3 Km + camminata 3 min + ultimi 5 min continui 7:49 min/Km
+- Avvertito leggerissimo risentimento di fascite plantare durante il finale della corsa e durante gli squat
 
 ## Giorno 7 — Riposo attivo
 

@@ -16,7 +16,7 @@ Approccio: integrazione strutturata di **corsa + forza**, evitando sovraccarichi
 
 * [Mobilità Dinamica](Drills.md)
 * [Forza](Strenght-Exercise.md)
-* [Nutrizione](Nustrition.md)
+* [Linee Guida Alimentazione](Nustrition.md)
 
 ---
 

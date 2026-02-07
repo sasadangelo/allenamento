@@ -1,101 +1,120 @@
-# Programma di Allenamento Integrato – 8 Settimane  
-**Calisthenics · Forza · Mobilità · Yoga · Preparazione alla Corsa**
+# Programma di Ricondizionamento Corsa + Forza — 8 Settimane  
+**Running · Calisthenics · Forza Strutturale · Mobilità**
 
 ## Panoramica
 
-Questo repository contiene un programma di allenamento progressivo di 8 settimane progettato per:
+Questo repository documenta un percorso personale di ricondizionamento fisico dopo periodo sedentario, con focus su:
 
-- Ricondizionamento dopo un lungo periodo di inattività (>1 anno)
-- Sviluppo della forza a corpo libero (calisthenics)
-- Miglioramento di mobilità e flessibilità
-- Preparazione graduale al ritorno alla corsa
-- Miglioramento della salute cardiovascolare, HRV, battito a riposo e parametri metabolici
+- ricostruzione base aerobica tramite corsa continua
+- sviluppo forza funzionale (glutei, anche, core, polpacci)
+- prevenzione infortuni (fascite plantare, adduttori)
+- miglioramento composizione corporea
+- ritorno progressivo alla performance sui 5 km
 
-Il programma è strutturato secondo principi di:
-- Sovraccarico progressivo
-- Alternanza carico / recupero
-- Integrazione di forza, cardio, mobilità e recupero
-- Preparazione a un secondo ciclo con introduzione di attrezzi
+Approccio: integrazione strutturata di **corsa + forza**, evitando sovraccarichi precoci e privilegiando adattamento tendineo e controllo motorio.
 
 * [Mobilità Dinamica](Drills.md)
 * [Forza](Strenght-Exercise.md)
 
 ---
 
-## Profilo Atleta (Iniziale)
+## 🎯 Obiettivi Gara
 
-- Ex runner (gare 10 km tra 2014–2017)
-- Oltre 1 anno di inattività
-- Obiettivi:
-  - miglioramento salute generale  
-  - riduzione massa grassa  
-  - recupero capacità aerobica  
-  - preparazione a lungo termine  
+- **21 Marzo — Maratonina di Roma (5 Km, non competitiva)**  
+  → completare la distanza correndo in modo continuo  
 
-Vincoli:
-- evitare sovraccarichi precoci su tendini e articolazioni  
-- priorità a tecnica e controllo motorio  
+- **10 Maggio — Komen Race (5 Km)**  
+  → tempo target: **< 30'**
+
+- **22 Maggio — Emergency “Corri per la Pace” (5–7 Km)**  
+  → completare la distanza a ritmo controllato  
 
 ---
 
-## Struttura Settimanale (Fissa per tutte le 8 settimane)
+## Profilo Atleta (iniziale)
+
+- Ex runner (gare 10 km tra 2014–2017)
+- >1 anno di inattività
+- Storico: fascite plantare piede sinistro, rigidità anche/adduttori
+- Molte ore seduto
+
+Obiettivi:
+
+- recupero capacità aerobica
+- aumento forza strutturale
+- riduzione massa grassa
+- salute generale
+
+Vincoli:
+
+- priorità a prevenzione infortuni
+- evitare doppio carico corsa + gambe nello stesso giorno
+- focus su tecnica e stabilità
+
+---
+
+## Struttura Settimanale
 
 | Giorno | Focus |
 |------|------|
-| Giorno 1 | Gambe + Core |
-| Giorno 2 | Corsa leggera + Parte superiore |
-| Giorno 3 | Riposo attivo |
-| Giorno 4 | Gambe + Core (variante) |
-| Giorno 5 | Corsa leggera + Mobilità |
-| Giorno 6 | Full Body Calisthenics |
-| Giorno 7 | Riposo attivo / Recupero |
+| Giorno 1 | Full Body + Core |
+| Giorno 2 | Corsa continua + Mobilità |
+| Giorno 3 | Gambe + Anche (strutturale) |
+| Giorno 4 | Corsa continua + Mobilità |
+| Giorno 5 | Riposo attivo |
+| Giorno 6 | Full Body |
+| Giorno 7 | Corsa continua |
 
-Questa struttura resta invariata per tutto il ciclo.  
-Variano solo **volume, intensità e varianti degli esercizi**.
+La corsa è mantenuta su sedute dedicate (20' continui nelle prime settimane).  
+La forza è centrale e mirata a supportare la corsa.
 
 ---
 
-## Periodizzazione del Ciclo
+## Principi del Programma
 
-Il programma è suddiviso in 4 fasi:
+- progressione graduale del volume
+- nessun lavoro a cedimento
+- separazione corsa / gambe
+- forza come fondamento della performance
+- recupero attivo
+- costruzione base aerobica prima della velocità
 
-| Fase | Settimane | Obiettivo |
+---
+
+## Periodizzazione
+
+| Fase | Settimane | Focus |
 |------|-----------|-----------|
-| Adattamento | 1–2 | Ricondizionamento, tolleranza articolare, controllo DOMS |
-| Costruzione | 3–4 | Costruzione forza base e base aerobica |
-| Intensificazione | 5–6 | Aumento intensità, forza reale a corpo libero |
-| Consolidamento | 7–8 | Stabilizzazione, preparazione ciclo successivo |
+| Adattamento | 1–2 | tolleranza tendinea, controllo DOMS, corsa continua |
+| Costruzione | 3–4 | aumento volume corsa + forza |
+| Intensificazione | 5–6 | introduzione ritmo gara |
+| Consolidamento | 7–8 | stabilizzazione + preparazione eventi |
 
 ---
 
-## Fase 1 — Settimane 1–2 (Adattamento)
+## Fase 1 — Settimane 1–2
 
 **Obiettivi**
-- Riattivare muscoli e tendini  
-- Apprendere corretti schemi motori  
-- Controllare indolenzimento e fatica  
+
+- stabilizzare corsa continua 20'
+- rinforzare glutei, anche, core, polpacci
+- prevenire fascite e sovraccarichi
 
 **Linee guida forza**
-- 2–3 serie per esercizio  
-- Ripetizioni medio-alte (10–15)  
-- Nessun lavoro a cedimento  
+
+- 2–3 serie
+- RPE 5–6
+- nessun cedimento
 
 **Cardio**
-- Alternanza corsa / cammino  
-- 15–20 minuti per seduta  
 
-**Esercizi chiave**
-- Squat  
-- Affondi avanti  
-- Ponte glutei  
-- Push-up  
-- Inverted row  
-- Plank (20–30 sec)  
-
-* [Vai all'Allenamento Settimana 1](Week-1.md)
-* [Vai all'Allenamento Settimana 2](Week-2.md)
+- corsa continua easy
+- 3 sedute settimanali
 
 ---
+
+* [Allenamento Settimana 1](Week-1.md)  
+* [Allenamento Settimana 2](Week-2.md)
 
 ## Fase 2 — Settimane 3–4 (Costruzione)
 

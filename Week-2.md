@@ -1,25 +1,26 @@
 # Programma Allenamento — Settimana 2
 
-Ciclo di ricondizionamento fisico  
-Obiettivi: progressione leggera, aumento volume forza, consolidamento corsa
+Ciclo di ricondizionamento fisico
+Obiettivi: consolidamento corsa continua, costruzione forza strutturale, prevenzione infortuni
 
 ---
 
-## Progressioni generali
+Progressioni generali
 
-- Tutti gli esercizi principali: da **2 → 3 serie** se nella settimana 1 reggevi bene  
-- Plank: da **30 → 35–40 sec**  
-- Push-up: +2 ripetizioni per serie  
-- Squat: +2–3 ripetizioni per serie  
-- Corsa: aumento totale a **20–25 min**, riducendo cammino: 2 min corsa / 1 min cammino  
+Tutti gli esercizi principali: da 2 → 3 serie se nella settimana 1 reggevi bene
+Plank: da 30 → 35–40 sec
+Push-up: +2 ripetizioni per serie
+Squat: +2–3 ripetizioni per serie
+Corsa: 20 min continui (ritmo facile, respirazione controllata)  
 
 **Indicazioni tecniche importanti**
 
-- RPE target: 5–6/10  
-- Mai andare a cedimento  
-- Recupero tra serie: 60–90 sec  
-- DOMS accettabile, dolore articolare no  
-- Se una giornata pesa troppo → riduci 1 serie  
+RPE target: 5–6/10
+Mai andare a cedimento
+Recupero tra serie: 60–90 sec
+DOMS accettabile, dolore articolare no
+Se una giornata pesa troppo → riduci 1 serie
+Respirazione: naso + bocca, parlata possibile
 
 ---
 
@@ -27,158 +28,139 @@ Obiettivi: progressione leggera, aumento volume forza, consolidamento corsa
 
 ### Riscaldamento (8 min)
 
-- Jumping jacks — 1 min  
+- Camminata veloce — 3 min  
 - Hip circles — 10 per lato  
 - Arm circles — 20 avanti + 20 indietro  
 - Side leg swings — 10 per lato  
 - Leg swings front/back — 10 per lato  
-- Mini balzi piedi uniti — 60–80  
+- Cat–cow — 5 cicli  
 
 ### Allenamento principale
 
-- Squat a corpo libero — 3×12–14  
-- Affondi avanti — 3×10 / gamba  
-- Ponte glutei — 3×12  
-- Calf raise — 3×20  
-- Push-up — 3×10  
-- Mountain climbers — 3×20  
-- Plank frontale — 3×35–40 sec  
+- Squat a corpo libero — 3×12–15
+- Push-up — 3×10–12
+- Inverted row — 3×8
+- Ponte glutei — 3×12
+- Calf raise lento — 3×20
+- Plank frontale — 3×35–40 sec
+- Dead bug — 3×8 / lato  
 
 ### Defaticamento (5–8 min)
 
 - Stretch quadricipiti  
 - Stretch glutei e anche  
-- Cat–cow — 5 cicli  
 - Stretch polpacci  
-
----
-
-## Giorno 2 — Corsa leggera + Parte superiore
-
-### Riscaldamento (5 min)
-
-- Camminata veloce — 3 min  
-- Arm circles — 20 avanti + 20 indietro  
-- Shoulder rolls — 10 avanti + 10 indietro  
-- Cat–cow — 5 cicli  
-
-### Cardio
-
-Durata totale: **22–25 min**
-
-- 2 min cammino / 1 min corsa  
-- Ripetere ciclo  
-
-### Allenamento parte superiore
-
-- Push-up — 3×10–12  
-- Inverted row — 3×9–10  
-- Plank to push-up — 3×8  
-- Superman hold — 2×25 sec  
-- Dip su panca (tricipiti) — 2×10  
-
-### Defaticamento
-
-- Stretch pettorali  
-- Stretch dorsali  
-- Stretch spalle  
-
----
-
-## Giorno 3 — Riposo attivo
-
-- Camminata 20–30 min  
-- Mobilità leggera 10 min  
-  - Anche  
-  - Schiena  
-  - Caviglie  
-
----
-
-## Giorno 4 — Gambe + Core (variante)
-
-### Riscaldamento (8 min)
-
-- Jumping jacks — 1 min  
-- Hip circles — 8 per lato  
-- Leg swings — 10 per lato  
-- Walking lunges — 2×10 passi  
-
-### Allenamento principale
-
-- Squat a corpo libero — 3×14–15  
-- Affondi laterali — 3×10 / gamba  
-- Ponte glutei monopodalico assistito — 3×10 / gamba  
-- Calf raise — 3×20  
-- Plank con tocco spalle — 3×35–40 sec  
-- Mountain climbers — 3×20  
-
-### Defaticamento
-
-- Stretch quadricipiti  
-- Stretch glutei  
 - Cat–cow — 5 cicli  
 
 ---
 
-## Giorno 5 — Corsa leggera + Mobilità
+## Giorno 2 — Corsa leggera + Mobilità
 
-### Riscaldamento (5 min)
+### Corsa
 
-- Camminata — 3 min  
-- High knees — 30 sec  
-- Butt kicks — 30 sec  
-- A-skip — 2×20 m (o 30 sec)  
+- 5' camminata
+- 20 min corsa continua easy (Z2–Z3 bassa)
+- 5' camminata
 
-### Cardio
+### Mobilità (10 min)
 
-Durata: 20–25 min
-
-- 2 min corsa / 1 min cammino  
-- Ripetere  
-
-### Mobilità dinamica (10 min)
-
-- Hip circles — 8 per lato  
-- Shoulder dislocates con asciugamano — 10  
-- Cat–cow — 8 cicli  
-- Rotazioni toraciche — 10 per lato  
-
-### Defaticamento
-
-- Stretch completo gambe  
-- Respirazione lenta — 3–5 min  
+- Hip circles — 10 per lato
+- Stretch flessori anca
+- Cat–cow — 8 cicli
+- Stretch polpacci
 
 ---
 
-## Giorno 6 — Full Body Calisthenics
+## Giorno 3 — Gambe + Anche (strutturale)
 
-### Riscaldamento (8 min)
+### Riscaldamento (6 min)
 
-- Jumping jacks — 1 min  
-- Arm circles — 20 + 20  
-- Hip circles — 8 per lato  
-- Push-up lenti — 6  
+- Camminata — 3 min
+- Leg swings — 10 per lato
+- Hip circles — 10 per lato
 
 ### Allenamento principale
 
-- Push-up — 3×12  
-- Inverted row — 3×8–10  
-- Squat — 3×18  
-- Squat jump leggero — 3×8  
-- Plank frontale — 3×45 sec  
-- Mountain climbers — 3×25  
-- Superman hold — 3×25 sec  
-- Calf raise — 3×20  
+- Split squat corto — 3×8 / gamba
+- Hip thrust — 3×10
+- Side leg raise — 3×12 / lato
+- Copenhagen plank light — 3×15 sec / lato
+- Calf raise lento — 3×15
+- Side plank — 2×25 sec / lato
 
 ### Defaticamento
 
-- Stretch globale — 10 min  
+- Stretch adduttori
+- Stretch glutei
+- Stretch polpacci
 
 ---
 
-## Giorno 7 — Riposo attivo
+## Giorno 4 — Corsa leggera + Mobilità
 
-- Bici 20–40 min oppure  
-- Camminata + stretching leggero  
+### Corsa
 
+- 5' camminata
+- 20 min corsa continua easy (Z2–Z3 bassa)
+- 5' camminata
+
+### Mobilità (10 min)
+
+- Hip circles — 10 per lato
+- Stretch flessori anca
+- Cat–cow — 8 cicli
+- Stretch polpacci
+
+---
+
+## Giorno 5 — Riposo attivo
+
+- Camminata 20–30 min
+- Mobilità leggera 10 min
+  - Anche
+  - Schiena
+  - Caviglie
+
+---
+
+## Giorno 6 — Full Body
+
+### Riscaldamento (8 min)
+
+Jumping jacks — 1 min
+Arm circles — 20 + 20
+Hip circles — 8 per lato
+Push-up lenti — 6
+
+### Allenamento principale
+
+Squat — 3×15
+Push-up — 3×12
+Inverted row — 3×8–10
+Ponte glutei — 3×12
+Calf raise — 3×20
+Plank frontale — 3×40 sec
+Superman hold — 3×25 sec
+
+### Defaticamento
+
+Stretch globale — 10 min
+
+---
+
+## Giorno 7 — Corsa leggera + Mobilità
+
+### Corsa
+
+- 5' camminata
+- 20 min corsa continua easy (Z2–Z3 bassa)
+- 5' camminata
+
+### Mobilità (10 min)
+
+- Hip circles — 10 per lato
+- Stretch flessori anca
+- Cat–cow — 8 cicli
+- Stretch polpacci
+
+---

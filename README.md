@@ -10,11 +10,13 @@ Questo repository documenta un percorso personale di ricondizionamento fisico do
 - prevenzione infortuni (fascite plantare, adduttori)
 - miglioramento composizione corporea
 - ritorno progressivo alla performance sui 5 km
+- Alimentazione controllata
 
 Approccio: integrazione strutturata di **corsa + forza**, evitando sovraccarichi precoci e privilegiando adattamento tendineo e controllo motorio.
 
 * [Mobilità Dinamica](Drills.md)
 * [Forza](Strenght-Exercise.md)
+* [Nutrizione](Nustrition.md)
 
 ---
 

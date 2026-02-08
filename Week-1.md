@@ -156,14 +156,14 @@ Note
 
 ### Note personali
 
-- Peso: 79.1 Kg
+- Peso: 79.8 Kg
 - Altezza: 176 cm
 - Misure:
-  - Fianchi: 99 cm
+  - Fianchi: 98 cm
   - Collo: 38 cm
   - Pancia: 98 cm
 - HRV 32
 - FC a riposo 66
 - Sensazioni generali:
   - fascite plantare, anche e adduttori sono mio punto debole
-  - glutei e parte posteriore da rinforzare 
+  - glutei e parte posteriore da rinforzare soprattutto lato sx

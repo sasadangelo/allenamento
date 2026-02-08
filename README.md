@@ -55,6 +55,17 @@ Vincoli:
 
 ---
 
+### Parametri Iniziali
+
+* Peso: 79.1 Kg
+* Altezza: 176 cm
+* Misure:
+  - Fianchi: 99 cm
+  - Collo: 38 cm
+  - Pancia: 98 cm
+* HRV 32
+*FC a riposo 66
+
 ## Struttura Settimanale
 
 | Giorno | Focus |

@@ -150,12 +150,8 @@ Note
 
 ## Giorno 7 — Riposo attivo
 
-- Bici — 20–40 min  
-
-oppure  
-
-- Camminata + stretching leggero  
-
+- Passeggiata tranquilla 7 Km
+- Stretching Anche, Caviglie, Schiena, Zona Lombare
 ---
 
 ### Note personali

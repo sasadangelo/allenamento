@@ -42,7 +42,7 @@ Respirazione: naso + bocca, parlata possibile
 - Crunch — 3×15
 - Ponte glutei — 3×20
 - Calf raise lento — 3×20
-- Plank frontale — 3×35–40 sec
+- Plank frontale — 3×40 sec
 - Dead bug — 3×8 / lato  
 
 ### Defaticamento (5–8 min)

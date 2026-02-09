@@ -41,7 +41,7 @@ Respirazione: naso + bocca, parlata possibile
 - Push-up — 3×12
 - Crunch — 3×15
 - Ponte glutei — 3×20
-- Calf raise lento — 3×20
+- Calf raise lento — 1×20+1×15+1×10
 - Plank frontale — 3×40 sec
 - Dead bug — 3×8 / lato  
 

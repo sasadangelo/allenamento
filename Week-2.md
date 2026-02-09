@@ -38,7 +38,7 @@ Respirazione: naso + bocca, parlata possibile
 ### Allenamento principale
 
 - Squat a corpo libero — 3×15
-- Push-up — 3×12
+- Push-up — 1×12+1×10+1×5
 - Crunch — 3×15
 - Ponte glutei — 3×20
 - Calf raise lento — 1×20+1×15+1×10
@@ -52,6 +52,8 @@ Respirazione: naso + bocca, parlata possibile
 - Stretch polpacci  
 - Cat–cow — 5 cicli  
 
+**Note:**:
+- Push up e calf raise lento faticosi
 ---
 
 ## Giorno 2 — Corsa leggera + Mobilità

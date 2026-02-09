@@ -70,7 +70,7 @@ Vincoli:
 
 | Giorno | Focus |
 |------|------|
-| Giorno 1 | Full Body + Core |
+| Giorno 1 | Gambe + Core |
 | Giorno 2 | Corsa continua + Mobilità |
 | Giorno 3 | Gambe + Anche (strutturale) |
 | Giorno 4 | Corsa continua + Mobilità |

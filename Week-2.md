@@ -40,7 +40,7 @@ Respirazione: naso + bocca, parlata possibile
 - Squat a corpo libero — 3×15
 - Push-up — 3×12
 - Crunch — 3×15
-- Ponte glutei — 3×12
+- Ponte glutei — 3×20
 - Calf raise lento — 3×20
 - Plank frontale — 3×35–40 sec
 - Dead bug — 3×8 / lato  

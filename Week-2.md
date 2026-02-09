@@ -8,9 +8,9 @@ Obiettivi: consolidamento corsa continua, costruzione forza strutturale, prevenz
 Progressioni generali
 
 Tutti gli esercizi principali: da 2 → 3 serie se nella settimana 1 reggevi bene
-Plank: da 30 → 35–40 sec
+Plank: da 30 → 40 sec
 Push-up: +2 ripetizioni per serie
-Squat: +2–3 ripetizioni per serie
+Squat: +3 ripetizioni per serie
 Corsa: 20 min continui (ritmo facile, respirazione controllata)  
 
 **Indicazioni tecniche importanti**
@@ -28,18 +28,18 @@ Respirazione: naso + bocca, parlata possibile
 
 ### Riscaldamento (8 min)
 
-- Camminata veloce — 3 min  
+- Jumping jack — 1 min  
 - Hip circles — 10 per lato  
 - Arm circles — 20 avanti + 20 indietro  
 - Side leg swings — 10 per lato  
-- Leg swings front/back — 10 per lato  
+- Leg swings front/back — 10 per lato 
 - Cat–cow — 5 cicli  
 
 ### Allenamento principale
 
-- Squat a corpo libero — 3×12–15
-- Push-up — 3×10–12
-- Inverted row — 3×8
+- Squat a corpo libero — 3×15
+- Push-up — 3×12
+- Crunch — 3×15
 - Ponte glutei — 3×12
 - Calf raise lento — 3×20
 - Plank frontale — 3×35–40 sec

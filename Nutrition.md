@@ -22,7 +22,7 @@
 * Verdure crude in grande quantità
 * Frutta secca in grandi quantità
 
-* [Esempi di Colazione Pre Allenamento](Colazione-Pre-Allenamento.md)
+[Esempi di Colazione Pre Allenamento](Colazione-Pre-Allenamento.md)
 
 **Nota**: una piccola quantità di prosciutto crudo magro o formaggio fresco è tollerata, ma meglio limitata.
 

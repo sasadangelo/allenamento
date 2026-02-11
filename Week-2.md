@@ -77,13 +77,13 @@ Respirazione: naso + bocca, parlata possibile
 
 ### Riscaldamento (6 min)
 
-- Camminata — 3 min
+- Saltelli piedi uniti — 1 min
 - Leg swings — 10 per lato
 - Hip circles — 10 per lato
 
 ### Allenamento principale
 
-- Split squat corto — 3×8 / gamba
+- Split squat corto — 3×10 / gamba
 - Hip thrust — 3×10
 - Side leg raise — 3×12 / lato
 - Copenhagen plank light — 3×15 sec / lato

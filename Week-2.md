@@ -88,7 +88,7 @@ Respirazione: naso + bocca, parlata possibile
 - Side leg raise — 3×12 / lato
 - Copenhagen plank light — 3×15 sec / lato
 - Calf raise lento — 3×15
-- Side plank — 2×25 sec / lato
+- Side plank — 2×20 sec / lato
 
 ### Defaticamento
 
@@ -96,6 +96,8 @@ Respirazione: naso + bocca, parlata possibile
 - Stretch glutei
 - Stretch polpacci
 
+* **Note:**
+- Copenhagen plank light eseguito male
 ---
 
 ## Giorno 4 — Corsa leggera + Mobilità

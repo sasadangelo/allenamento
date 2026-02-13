@@ -132,18 +132,18 @@ Respirazione: naso + bocca, parlata possibile
 ### Riscaldamento (8 min)
 
 Jumping jacks — 1 min
-Arm circles — 20 + 20
-Hip circles — 8 per lato
+Arm circles — 2x20
+Hip circles — 10 per lato
 Push-up lenti — 6
 
 ### Allenamento principale
 
 Squat — 3×15
 Push-up — 3×12
-Inverted row — 3×8–10
+Inverted row — 3×10
 Ponte glutei — 3×12
 Calf raise — 3×20
-Plank frontale — 3×40 sec
+Plank frontale — 2×40 sec
 Superman hold — 3×25 sec
 
 ### Defaticamento

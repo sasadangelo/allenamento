@@ -64,7 +64,7 @@ Vincoli:
   - Collo: 38 cm
   - Pancia: 98 cm
 * HRV 32
-*FC a riposo 66
+* FC a riposo 66
 
 ## Struttura Settimanale
 
@@ -72,10 +72,10 @@ Vincoli:
 |------|------|
 | Giorno 1 | Gambe + Core |
 | Giorno 2 | Corsa continua + Mobilità |
-| Giorno 3 | Gambe + Anche (strutturale) |
-| Giorno 4 | Corsa continua + Mobilità |
-| Giorno 5 | Riposo attivo |
-| Giorno 6 | Full Body |
+| Giorno 3 | Full Body |
+| Giorno 4 | Riposo attivo |
+| Giorno 5 | Corsa continua + Mobilità |
+| Giorno 6 | Riposo attivo |
 | Giorno 7 | Corsa continua |
 
 La corsa è mantenuta su sedute dedicate (20' continui nelle prime settimane).  

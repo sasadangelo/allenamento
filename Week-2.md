@@ -173,3 +173,16 @@ Stretch globale — 10 min
 * leggi DOMS nel pomeriggio a gambe, anche e adduttori
 
 ---
+
+## Note personali
+
+- Peso: 79.8 Kg
+- Altezza: 176 cm
+- Misure:
+  - Fianchi: 98 cm
+  - Collo: 38 cm
+  - Pancia: 96.5 cm
+- HRV 37
+- FC a riposo 62
+- Sensazioni generali:
+  vedi note sopra

@@ -157,7 +157,7 @@ Stretch globale — 10 min
 ### Corsa
 
 - 5' camminata
-- 20 min corsa continua easy (Z2–Z3 bassa)
+- 30 min corsa continua easy (Z2–Z3 bassa)
 - 5' camminata
 
 ### Mobilità (10 min)
@@ -166,5 +166,10 @@ Stretch globale — 10 min
 - Stretch flessori anca
 - Cat–cow — 8 cicli
 - Stretch polpacci
+
+* **Note**:
+* Ho corso 4.17 Km in 30 min corsa continua, 11 min in zona 3 bassa il resto zona 2
+* leggero risentimento fascite plantare dopo corsa poi sparito
+* leggi DOMS nel pomeriggio a gambe, anche e adduttori
 
 ---

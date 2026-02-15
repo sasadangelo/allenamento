@@ -72,7 +72,7 @@ Vincoli:
 |------|------|
 | Giorno 1 | Gambe + Core |
 | Giorno 2 | Corsa continua + Mobilità |
-| Giorno 3 | Full Body |
+| Giorno 3 | Full Body (Gambe leggero o nullo) |
 | Giorno 4 | Riposo attivo |
 | Giorno 5 | Corsa continua + Mobilità |
 | Giorno 6 | Riposo attivo |
